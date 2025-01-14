@@ -1,0 +1,12 @@
+{
+    "name": "user/mat_01",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JABB"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
